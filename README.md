@@ -1,5 +1,11 @@
 # 短视频拆解学习 Skill 使用指南
 
+> 抖音电商认证讲师 郑镇涛 免费开源
+>
+> AI 学习，skill 使用问题咨询镇涛老师助理：7838053（微信）
+>
+> AI 电商知识库：https://bvvp9yto7k.feishu.cn/wiki/ZIbrwShfkirvVok3hIHcUz5nnTc
+
 > 给你一个工具：丢一条抖音视频链接给它，它自动帮你拆出这条视频为什么火、你下一条怎么照着做。
 
 ---
